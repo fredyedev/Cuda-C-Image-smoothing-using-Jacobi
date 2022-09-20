@@ -17,3 +17,5 @@ Execute:
 ./Suavizado <ImgN> <Mit> <Lmd> <Id>
 
 ./SecSuavizado <ImgN> <Mit> <Lmd> <Id>
+  
+  for more details, read ReporteSuavisado.pdf (Spanish)
